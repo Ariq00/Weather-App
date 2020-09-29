@@ -1,0 +1,31 @@
+h1{
+	color: #a5b9cc;
+	font-size: 30px;
+	padding-top: 20px;
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+}
+
+body {
+	background-image: url("Background.jpg");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+.input{
+	color: #a5b9cc;
+}
+
+.icon{
+	position: absolute;
+	left: 500px
+}
+
+.container{
+	text-align: left;
+	color: #a5b9cc;
+	position: absolute;
+	left: 600px
+}
+
